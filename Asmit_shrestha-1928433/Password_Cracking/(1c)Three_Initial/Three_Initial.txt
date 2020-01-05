@@ -1,0 +1,8 @@
+1757600 solutions explored
+#79746   BER45 $6$KB$e1fG/f7Dr56YtgibdvLg7KpRb2bpCgGLv4eywNCmXXEgSV6jInDFCSkUoBq6Cn67b1GscDjxXExe9H3gudFgc.
+1757600 solutions explored
+#204090  DAM89 $6$KB$mSVXI9v7J/9czxiCGGERm7BRZgkHaPo1TNZ8AqVdnkfz4INPofJQbRlGMpVzfFvFNIS5i6T5JLocC87tlG/NO/
+1757600 solutions explored
+#781151  LOL50 $6$KB$FsCnEgeVl5KRBe62eF4R3mxZORQHEVeBzPXartqdZsZ3rfvLHgfQhEZtQM5xEFuqrPLN5h2/0DCy1F41oRFGv0
+1757600 solutions explored
+Time elapsed was 16794494297264ns or 16794.494297264s

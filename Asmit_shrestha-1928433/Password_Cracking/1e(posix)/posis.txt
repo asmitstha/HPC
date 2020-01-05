@@ -1,0 +1,13 @@
+#4779    BV78 $6$KB$0G24VuNaA9ApVG4z8LkI/OOr9a54nBfzgQjbebhqBZxMHNg0HiYYf1Lx/HcGg6q1nnOSArPtZYbGy7yc5V.wP/
+33800 solutions explored
+33800 solutions explored
+#12384   ET83 $6$KB$VDUCASt5S88l82JzexhKDQLeUJ5zfxr16VhlVwNOs0YLiLYDciLDmN3QYAE80UIzfryYmpR.NFmbZvAGNoaHW.
+33800 solutions explored
+33800 solutions explored
+#17362   GR61 $6$KB$0n1YjoLnJBuAdeBsYFW3fpZzMPP8xycQbEj35GvoerMnEkWIAKnbUBAb70awv5tfHylWkVzcwzHUNy/7l7I1c/
+33800 solutions explored
+33800 solutions explored
+#13111   SB10 $6$KB$HKffNNiGzngqYueF89z3gwWZMg.xUBIz/00QSCbgwKtRHmwUbZX6jTH4VUAg3L3skaO8qtNf5LE7WP39jQ7ZJ0
+33800 solutions explored
+33800 solutions explored
+Time elapsed was 75ns or 0.000000075s
